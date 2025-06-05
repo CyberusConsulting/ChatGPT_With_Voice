@@ -10,6 +10,10 @@ The sessions are context aware, meaning ChatGPT will remember your previous ques
 NOTE:<br>
 The default model is "gpt-3.5-turbo" which is pretty old at this point and should probably be replaced with something newer.<br>
 
+TODO:<br>
+Replace the "SpeechRecognition" package with something that can be run locally.<br>
+This particular package uses Google to do the speech recognition and can be slow at times.<br>
+<br>
 
 ```
 Packages used:
