@@ -1,0 +1,86 @@
+
+# ---------------------------
+# App Specific
+# ---------------------------
+logs/*
+!logs/00_dummy.txt
+.env
+
+# ---------------------------
+# General Folders
+# ---------------------------
+.idea/*
+.elasticbeanstalk/
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+.vs/*
+.vscode/*
+.aws/*
+.backup/*
+.temp/*
+.webassets-cache/*
+00_Backup/*
+docs/_build/*
+instance/*
+__pycache__/*
+target/*
+temp/*
+venv/*
+xcuserdata
+xcuserstate
+xcbkptlist
+xcscheme
+
+# ---------------------------
+# General Files
+# ---------------------------
+.DS_Store
+*.bat
+*.bin
+*.csv
+*.class
+*.db
+*.dll
+*.dylib
+*.exe
+*.idb
+*.iml
+*.idx
+*.ini
+*.ipch
+*.jar
+*.lid
+*.log
+*.mhf
+*.mp3
+*.mp4
+*.MF
+*.o
+*.obj
+*.opensdf
+*.opendb
+*.pch
+*.pk
+*.pdb
+*.png
+*.prj
+*.psd
+*.pyc
+*.pui
+*.rfp
+*.so
+*.suo
+*.sdf
+*.scrapy
+# *.tsv
+*.tlog
+*.wav
+*.xccheckout
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.xcbkptlist
+*.xcscheme
+*.xcworkspacedata
+

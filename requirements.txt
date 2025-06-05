@@ -1,0 +1,13 @@
+
+# OpenAI/ChatGPT
+openai==1.84.0
+
+# Text to speech output
+pyttsx3==2.98
+
+# Speech recognition, speech to text
+SpeechRecognition==3.14.3
+PyAudio==0.2.14
+
+# Environment file
+dotenv==0.9.9
