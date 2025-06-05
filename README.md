@@ -7,6 +7,9 @@ The project prompts you for speech input and the ChatGPT response will be read b
 You can use a (optional) "keyword" (Default is "Computer") which you will have to prefix your question with in order for it to be sent to ChatGPT.<br>
 The sessions are context aware, meaning ChatGPT will remember your previous questions and comments during the session.<br>
 
+NOTE:<br>
+The default model is "gpt-3.5-turbo" which is pretty old at this point and should probably be replaced with something newer.<br>
+
 
 ```
 Packages used:
