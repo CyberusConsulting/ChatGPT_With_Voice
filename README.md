@@ -3,9 +3,9 @@
 
 Python 3 project that wraps ChatGPT with a voice recognition package and a speech package.
 
-The project prompts you for speech input and the ChatGPT response will be read back to you.
-You can use a (optional) "keyword" (Default is "Computer") which you will have to prefix your question with in order for it to be sent to ChatGPT.
-The sessions are context aware, meaning ChatGPT will remember your previous questions and comments during the session.
+The project prompts you for speech input and the ChatGPT response will be read back to you.<br>
+You can use a (optional) "keyword" (Default is "Computer") which you will have to prefix your question with in order for it to be sent to ChatGPT.<br>
+The sessions are context aware, meaning ChatGPT will remember your previous questions and comments during the session.<br>
 
 
 ```
